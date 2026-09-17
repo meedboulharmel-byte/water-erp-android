@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WATER ERP</string>
+    <string name="association_name">جمعية سيدي لحسن امخشون</string>
+    <string name="offline_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="offline_message">تعذر تحميل WATER ERP. تحقق من الشبكة ثم أعد المحاولة.\nImpossible de charger l’application. Vérifiez la connexion.</string>
+    <string name="error_title">تعذر تحميل الصفحة</string>
+    <string name="error_generic">Une erreur s’est produite lors du chargement de WATER ERP.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="choose_file">اختيار ملف أو التقاط صورة</string>
+</resources>
